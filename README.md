@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ictinos0222
+- 👋 Hi, My name is Akhil Sharma.
 - 👀 I’m interested in books, music, and TV shows (and coding of course).
 - 🌱 I’m currently learning Artificial Intelligence and Data Science.
 
